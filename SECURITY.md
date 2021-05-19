@@ -1,21 +1,22 @@
 # Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Supported Versions (As of 19/521)
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 0.1.1  | :white_check_mark: |
+
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability, simply redirect to:
+1) http://animetroxic-contact-us.renderforestsites.com/
+2) http://tiny.cc/AnimeT-Contact
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Or simply, email me at:
+alston.v.abraham19@gmail.com
+
+
+Hope you love this project!
+Regards,
+G77LAIP-wx
